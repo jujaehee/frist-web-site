@@ -1,7 +1,7 @@
 /* Examples */
 (function($) {
   /*
-   * Example 1:
+   * Example  FIRST:
    *
    * - no animation
    * - custom gradient
@@ -16,7 +16,7 @@
   });
 
   /*
-   * Example 2:
+   * Example SECOND :
    *
    * - default gradient
    * - listening to `circle-animation-progress` event and display the animation progress: from 0 to 100%
@@ -29,7 +29,7 @@
   });
 
   /*
-   * Example 3:
+   * Example THIRD:
    *
    * - very custom gradient
    * - listening to `circle-animation-progress` event and display the dynamic change of the value: from 0 to 0.8
